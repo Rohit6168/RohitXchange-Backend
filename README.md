@@ -171,40 +171,40 @@ RohitXchange is a modern cryptocurrency exchange platform that enables users to 
 ### 🔐 Authentication
 <table>
   <tr>
-    <td><img src="screenshots/register(1).png" alt="Sign Up" width="400"/><br/><b>Sign Up Page</b></td>
-    <td><img src="screenshots/login(1).png" alt="Login" width="400"/><br/><b>Login Page</b></td>
+    <td><img src="screenshots/register (1).png" alt="Sign Up" width="400"/><br/><b>Sign Up Page</b></td>
+    <td><img src="screenshots/login (1).png" alt="Login" width="400"/><br/><b>Login Page</b></td>
   </tr>
 </table>
 
 ### 📊 Dashboard & Trading
 <table>
   <tr>
-    <td><img src="screenshots/dash(1).png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
-    <td><img src="screenshots/crypto(1).png" alt="Trading Chart" width="400"/><br/><b>Real-time Price Chart</b></td>
+    <td><img src="screenshots/dash (1).png" alt="Dashboard" width="400"/><br/><b>Main Dashboard</b></td>
+    <td><img src="screenshots/crypto (1).png" alt="Trading Chart" width="400"/><br/><b>Real-time Price Chart</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/chatbot(1).png" alt="Trade Modal" width="400"/><br/><b>AI chatbot</b></td>
-    <td><img src="screenshots/history(1).png" alt="Trade History" width="400"/><br/><b>Trading History</b></td>
+    <td><img src="screenshots/chatbot (1).png" alt="Trade Modal" width="400"/><br/><b>AI chatbot</b></td>
+    <td><img src="screenshots/history (1).png" alt="Trade History" width="400"/><br/><b>Trading History</b></td>
   </tr>
 </table>
 
 ### 💰 Wallet Management
 <table>
   <tr>
-    <td><img src="screenshots/wallet(1).png" alt="Wallet" width="400"/><br/><b>Wallet Dashboard</b></td>
-    <td><img src="screenshots/paymethod(1).png" alt="Add Money" width="400"/><br/><b>Add Money Modal</b></td>
+    <td><img src="screenshots/wallet (1).png" alt="Wallet" width="400"/><br/><b>Wallet Dashboard</b></td>
+    <td><img src="screenshots/paymethod (1).png" alt="Add Money" width="400"/><br/><b>Add Money Modal</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/pay(1).png" alt="Payment Success" width="400"/><br/><b>Payment Successful</b></td>
-    <td><img src="screenshots/walletup(1).png" alt="Wallet Updated" width="400"/><br/><b>Updated Balance</b></td>
+    <td><img src="screenshots/pay (1).png" alt="Payment Success" width="400"/><br/><b>Payment Successful</b></td>
+    <td><img src="screenshots/walletup (1).png" alt="Wallet Updated" width="400"/><br/><b>Updated Balance</b></td>
   </tr>
 </table>
 
 ### 👤 User Profile & Settings
 <table>
   <tr>
-    <td><img src="screenshots/profile(1).png" alt="Profile" width="400"/><br/><b>User Profile</b></td>
-    <td><img src="screenshots/menu(1).png" alt="menu" width="400"/><br/><b>Navigation Sidebar</b></td>
+    <td><img src="screenshots/profile (1).png" alt="Profile" width="400"/><br/><b>User Profile</b></td>
+    <td><img src="screenshots/menu (1).png" alt="menu" width="400"/><br/><b>Navigation Sidebar</b></td>
   </tr>
 </table>
 
